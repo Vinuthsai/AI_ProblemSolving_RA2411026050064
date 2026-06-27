@@ -1,7 +1,7 @@
 # AI Problem Solving Assignment
 
-## Name: M Shanmukha Chowdary
-## Register Number: RA2411026050064
+## Name: Vinuth Sai
+## Register Number: RA2311003050297
 
 ---
 
